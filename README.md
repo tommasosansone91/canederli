@@ -6,13 +6,21 @@ This package contains the function 'canederlist'
 i.e. 
 
 Comma 
+
 And 
+
 NEwline 
+
 Delimited 
+
 Elements 
+
 Reformatted as 
+
 LIst of 
+
 STrings 
+
 
 which allows to reformat a multiline string containing words separated by commas into a list of strings.
 
