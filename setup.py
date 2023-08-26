@@ -1,11 +1,12 @@
 
 from setuptools import setup, find_packages
 
-VERSION = '0.0.13' 
+VERSION = '0.0.14' 
 
 DESCRIPTION = 'Simple tools to quickly get the names of multiple variables out of the lines of code where they are defined.'
 
-from .long_description import LONG_DESCRIPTION
+# this is to be used locally by the dev, and not from the module
+from long_description import LONG_DESCRIPTION
 
 setup(
         name="canederli", 
@@ -19,7 +20,7 @@ setup(
         install_requires=[], # add any additional packages that 
         # needs to be installed along with your package. Eg: 'caer'
         
-        keywords=['multiline', 'strings', 'list', 'variables', 'names', 'labels'],
+        keywords=['hardcode', 'variables', 'names', 'labels', 'strings', 'list', 'multiline' ],
         classifiers= [
             "Development Status :: 3 - Alpha",
             "Intended Audience :: Education",
