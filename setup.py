@@ -1,7 +1,7 @@
 
 from setuptools import setup, find_packages
 
-VERSION = '0.0.14' 
+VERSION = '0.0.15' 
 
 DESCRIPTION = 'Simple tools to quickly get the names of multiple variables out of the lines of code where they are defined.'
 

@@ -6,6 +6,13 @@
 
 LONG_DESCRIPTION = \
 """
+
+<div style="text-align:center">
+	<img src="https://github.com/tommasosansone91/canederli/tree/main/images/canederli1.png" style="width:60%;" align="middle" alt="cover of Canaderli python package" >
+</div>
+
+
+
 This package contains the function 'canederlist' 
 
 i.e. 
