@@ -1,18 +1,23 @@
 
+
+# the format of this multiline string will be markup.
+# so mind your syntax.
+
+
 LONG_DESCRIPTION = \
 """
 This package contains the function 'canederlist' 
 
 i.e. 
 
-Comma 
-And 
-NEwline 
-Delimited 
-Elements 
-Reformatted as 
-LIst of 
-STrings 
+Comma \n
+And \n
+NEwline \n
+Delimited \n
+Elements \n
+Reformatted as \n
+LIst of \n
+STrings \n
 
 which allows to reformat a multiline string containing words separated by commas into a list of strings.
 
