@@ -5,26 +5,29 @@ This package contains the function 'canederlist'
 
 i.e. 
 
-Comma 
-
-And 
-
-NEwline 
-
-Delimited 
-
-Elements 
-
-Reformatted as 
-
-LIst of 
-
-STrings 
-
+Comma <br>
+And <br>
+NEwline <br>
+Delimited <br>
+Elements <br>
+Reformatted as <br>
+LIst of <br>
+STrings <br>
 
 which allows to reformat a multiline string containing words separated by commas into a list of strings.
 
 This is useful when we have hardcoded a list of variables and we want to quickly get a list of their names as strings.
+
+canederlist spares us from copypasting 
+
+```
+print(var1, var2, ..., var100)
+```
+and manually add quotes around each variable, like this
+
+```
+print("var1", "var2", ..., "var100")
+```
 
 
 usage
@@ -97,11 +100,6 @@ print(columns)
 long case example
 ------------------
 
-When you have a lot of variable in your workspace and you want to print more of them,
-
-and you also want to lable each one of them,
-
-this is when canederlist turns useful.
 
 ```
 var_1 = 42
