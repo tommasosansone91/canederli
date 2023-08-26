@@ -1,2 +1,6 @@
 canederli/__pycache__
 __pycache__
+
+build
+canederli.egg-info
+dist
