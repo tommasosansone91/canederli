@@ -11,7 +11,7 @@ LONG_DESCRIPTION = \
 	<img src="https://raw.githubusercontent.com/tommasosansone91/canederli/main/images/canederli1.png" style="width:60%;" align="middle" alt="cover of Canaderli python package" >
 </div>
 
-
+\n
 
 This package contains the function 'canederlist' 
 
