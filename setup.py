@@ -1,12 +1,16 @@
 
 from setuptools import setup, find_packages
 
+# this is to be used locally by the dev, and not from the module
+from long_description import LONG_DESCRIPTION
+
+from rewrite_readme import rewrite_readme
+
 VERSION = '0.0.15' 
 
 DESCRIPTION = 'Simple tools to quickly get the names of multiple variables out of the lines of code where they are defined.'
 
-# this is to be used locally by the dev, and not from the module
-from long_description import LONG_DESCRIPTION
+rewrite_readme()
 
 setup(
         name="canederli", 
