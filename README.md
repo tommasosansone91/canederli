@@ -8,7 +8,7 @@
 
 <br>
 
-*Stop labelling variables by enclosing every one of them in quotes.
+*Stop labelling variables by enclosing every one of them in quotes.<br>
 Get your hands dirty with a big copypaste just once.*
 
 This package contains the function 'canederlist' 
