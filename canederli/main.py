@@ -18,15 +18,15 @@ def canederlist(multiline_string: str, rm_parentheses=False, rm_spaces=False):
 -------
 
 >>>columns_labels = canederlist(\"\"\"
- names, 
-            descriptions, 
-            x_coordinates, 
-            y_coordinates 
+ var1, 
+            var2, 
+            ... 
+            var100 
 \"\"\")
 
 >>>print(columns_labels)
 
-['names', 'descriptions', 'x_coordinates', 'y_coordinates']
+['var1', 'var2', ... , 'var100']
 """
 
     if rm_spaces:
