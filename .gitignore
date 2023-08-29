@@ -5,3 +5,6 @@ build
 canederli.egg-info
 dist
 images/discarded
+TODO
+scratches
+venv_canederli
