@@ -16,7 +16,7 @@ LONG_DESCRIPTION = \
 *Stop labelling variables by enclosing every one of them in quotes.<br>
 Get your hands dirty with a big copypaste just once.*
 
-Canederli is a simple python package containing only the function <code>canederlist</code> 
+**Canederli** is a simple python package containing only the function <code>canederlist</code> 
 
 i.e. 
 

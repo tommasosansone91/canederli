@@ -6,7 +6,7 @@ from long_description import LONG_DESCRIPTION
 
 from rewrite_readme import rewrite_readme
 
-VERSION = '0.0.17' 
+VERSION = '0.0.18' 
 
 DESCRIPTION = 'Simple tools to quickly get the names of a list of variables out of the lines of code where they are defined.'
 
