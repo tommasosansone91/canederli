@@ -33,7 +33,7 @@ which reformats a multiline string containing words separated by commas into a l
 
 This is useful when our code has a hardcoded list of variables and we want to quickly get a list of their names as strings:<br>
 Instead of copypasting the list of variables and  manually adding quotes around each variable,<br>
-we can copy the list of variables and paste it as the first input parameter of <code>canederlist</code>, enclosed in triple quotes (\"\"\").
+we can copy the list of variables and paste it as the first input parameter of <code>canederlist</code>, enclosed in triple quotes (<code>\"\"\"</code>).
 
 
 Quick example
@@ -85,7 +85,7 @@ print(labels)
 usage
 -----
 
-The list of variables (i.e. not the variable containing the list, the hardcoded list of variables) must be copied and pasted as argument of <code>canederlist()</code>, enclosed in triple quotes (\"\"\").
+The list of variables (i.e. not the variable containing the list, the hardcoded list of variables) must be copied and pasted as argument of <code>canederlist()</code>, enclosed in triple quotes (<code>\"\"\"</code>).
 
 The function <code>canederlist</code> will remove 
  - multiple spaces (double or more, but not single spaces)
