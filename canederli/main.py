@@ -20,7 +20,7 @@ def canederlist(multiline_string: str, rm_parentheses=False, rm_spaces=False):
 >>>columns_labels = canederlist(\"\"\"
  var1, 
             var2, 
-            ... 
+            ... , 
             var100 
 \"\"\")
 
